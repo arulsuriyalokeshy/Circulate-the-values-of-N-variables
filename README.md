@@ -20,9 +20,8 @@ before index in the list
 ### Step 6:
 print the value of 1
 ### Program:
-Program to Circulate N values.
-(```Developed by Suriya prakash.S
-    Register Number 23013599```
+(Developed by Suriya prakash.S
+    Register Number 23013599
     def circulate():
     l=eval(input())
     n=int(input())
