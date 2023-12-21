@@ -21,12 +21,12 @@ before index in the list
 print the value of 1
 ### Program:
 '''Developed by Suriya prakash.S 
-Register Number 23013599'''
+Register Number 23013599
 def circulate():
 l=eval(input())
 n=int(input())
 l=l[n:]+l[:n]
-print("After circulating the values are:",l)
+print("After circulating the values are:",l)'''
 
 
 
